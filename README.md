@@ -64,7 +64,3 @@ https://drive.google.com/file/d/19ENsqFQSQr85MfIK5iWa6GOmhae9mMgs/view?usp=shari
 ![Task Tracker Screenshot 3](./screenshot3.png)
 ![Task Tracker Screenshot 4](./screenshot4.png)
 ![Task Tracker Screenshot 5](./screenshot5.png)
-
-## 📁 Project Structure
-
-```
