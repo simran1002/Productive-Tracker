@@ -59,8 +59,8 @@ https://drive.google.com/file/d/19ENsqFQSQr85MfIK5iWa6GOmhae9mMgs/view?usp=shari
 
 ## 🖼 Screenshots
 
-![Task Tracker Screenshot 1](./screenshot1.png)
-![Task Tracker Screenshot 2](./screenshot2.png)
-![Task Tracker Screenshot 3](./screenshot3.png)
-![Task Tracker Screenshot 4](./screenshot4.png)
-![Task Tracker Screenshot 5](./screenshot5.png)
+![Task Tracker Screenshot 1](./screenshots/Screenshot%20(1124).png)
+![Task Tracker Screenshot 2](./screenshots/Screenshot%20(1125).png)
+![Task Tracker Screenshot 3](./screenshots/Screenshot%20(1127).png)
+![Task Tracker Screenshot 4](./screenshots/Screenshot%20(1128).png)
+![Task Tracker Screenshot 5](./screenshots/Screenshot%20(1130).png)
